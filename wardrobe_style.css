@@ -26,7 +26,42 @@ div.side_bar_skirt {width: 200px;
 				font-weight: bold;}
 
 div.side_bar_blouse {width: 200px;
-				height: 6000px;
+				height: 6400px;
+				color: #186085;
+				font-size: 15;
+				float: left;
+				font-weight: bold;}
+
+div.side_bar_out {width: 200px;
+				height: 2800px;
+				color: #186085;
+				font-size: 15;
+				float: left;
+				font-weight: bold;}
+
+div.side_bar_under {width: 200px;
+				height: 2000px;
+				color: #186085;
+				font-size: 15;
+				float: left;
+				font-weight: bold;}
+
+div.side_bar_shoe {width: 200px;
+				height: 8200px;
+				color: #186085;
+				font-size: 15;
+				float: left;
+				font-weight: bold;}
+
+div.side_bar_bag {width: 200px;
+				height: 4600px;
+				color: #186085;
+				font-size: 15;
+				float: left;
+				font-weight: bold;}
+
+div.side_bar_ac {width: 200px;
+				height: 7300px;
 				color: #186085;
 				font-size: 15;
 				float: left;
