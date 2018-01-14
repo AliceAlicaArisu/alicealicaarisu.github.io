@@ -47,21 +47,21 @@ div.side_bar_under {width: 200px;
 				font-weight: bold;}
 
 div.side_bar_shoe {width: 200px;
-				height: 8200px;
+				height: 6000px;
 				color: #186085;
 				font-size: 15;
 				float: left;
 				font-weight: bold;}
 
 div.side_bar_bag {width: 200px;
-				height: 4600px;
+				height: 4400px;
 				color: #186085;
 				font-size: 15;
 				float: left;
 				font-weight: bold;}
 
 div.side_bar_ac {width: 200px;
-				height: 7300px;
+				height: 6000px;
 				color: #186085;
 				font-size: 15;
 				float: left;
@@ -83,7 +83,14 @@ hr.top_line {padding-top: 0px;}
 
 img.wardrobe_item {height: 700px;}
 
+img.shoe {height: 450px;}
+
 .item_name {font-size: 25;
 			font-weight: bold;}
 
 img.logo {height: 200px;}
+
+
+
+
+
